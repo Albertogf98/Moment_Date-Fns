@@ -1,0 +1,16 @@
+{
+  "name": "dates",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dates.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/date-fns": "^2.6.0",
+    "date-fns": "^2.16.1",
+    "moment": "^2.29.1"
+  }
+}
